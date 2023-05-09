@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minh Pham</h1>
 <h3 align="center">A passionate self-taught developer / high school student.</h3>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/miniminter_fammm) 
 
