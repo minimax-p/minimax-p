@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Minh Pham</h1>
-<h3 align="center">A passionate self-taught developer / high school student.</h3>
+<h3 align="center">You can call me Minh.</h3>
 
-- 🌱 I’m currently learning **Flutter and Machine Learning. I'm looking forward to take courses of Machine Learning in college.**
+- 🌱 I’m currently learning **I'm taking a degree in Data Science. Looking forward to make my own NLP Model or something similarly cool.**
 
-- ⚡ Fun fact **I love going to the gym!**
+- ⚡ Fun fact **I love graphic design and just making things look better than it was in general**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
