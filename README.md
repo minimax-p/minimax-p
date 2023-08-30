@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minh Pham</h1>
 <h3 align="center">You can call me Minh.</h3>
 
-- 🌱 I’m currently learning **I'm taking a degree in Data Science. Looking forward to make my own NLP Model or something similarly cool.**
+- 🌱 **I'm taking a degree in Data Science. Looking forward to make my own NLP Model or something similarly cool.**
 
 - ⚡ Fun fact **I love graphic design and just making things look better than it was in general**
 
