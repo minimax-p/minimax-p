@@ -3,7 +3,7 @@
 
 - 🌱 **I'm taking a degree in Data Science. Looking forward to make my own NLP Model or something similarly cool.**
 
-- ⚡ Fun fact **I love graphic design and just making things look better than it was in general**
+- ⚡ Fun fact: **I love graphic design and basketballl**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
