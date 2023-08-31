@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Minh Pham</h1>
 <h3 align="center">You can call me Minh.</h3>
 
-- 🌱 **I'm taking a degree in Data Science. Looking forward to make my own NLP Model or something similarly cool.**
-
-- ⚡ Fun fact: **I love graphic design and basketball.**
+🌱 **I'm taking a degree in Data Science. Looking forward to make my own NLP Model or something similarly cool.**
+⚡ Fun fact: **I love graphic design and basketball.**
+📫 How to reach me: phamhuunhatminh221b@gmail.com
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
